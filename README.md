@@ -1,2 +1,2 @@
-# DragonPulse
+# 🐉 DragonPulse
 DragonPulse 🐉
